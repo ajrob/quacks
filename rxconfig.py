@@ -5,5 +5,5 @@ class ReflexquackConfig(rx.Config):
 
 config = ReflexquackConfig(
     app_name="reflex_quack",
-    api_url="https://quacks-bag.web.app/",
+    api_url="https://quacks.onrender.com",
 )
